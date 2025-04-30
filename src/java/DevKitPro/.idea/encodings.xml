@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/common/base-cli/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/base-cli/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/base/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/utils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/utils/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/features/command/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/features/command/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/features/diff/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/features/diff/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/features/tg-utils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/features/tg-utils/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/plugin/jmeter_plugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/plugin/jmeter_plugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/products/DevKitPro-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/products/DevKitPro-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/products/DevKitPro-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/products/DevKitPro-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/products/StubIFServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/products/StubIFServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/products/TGToolsWeb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/products/TGToolsWeb/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/products/quote2schedule/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/products/quote2schedule/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/products/tg-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/products/tg-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/products/tg_app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/products/tg_app/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/products/tools-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/products/tools-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/products/web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/products/web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/DevKitPro-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/DevKitPro-web/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

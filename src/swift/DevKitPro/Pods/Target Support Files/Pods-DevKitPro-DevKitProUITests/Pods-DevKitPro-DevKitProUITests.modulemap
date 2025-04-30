@@ -1,0 +1,6 @@
+framework module Pods_DevKitPro_DevKitProUITests {
+  umbrella header "Pods-DevKitPro-DevKitProUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,59 @@
+PODS:
+  - Alamofire (5.9.1)
+  - APIKit (5.4.0)
+  - KIF (3.11.3):
+    - KIF/Core (= 3.11.3)
+  - KIF/Core (3.11.3)
+  - Nimble (10.0.0)
+  - Quick (5.0.1)
+  - R.swift (7.3.2)
+  - RxSwift (6.8.0)
+  - SwiftFormat/CLI (0.55.5)
+  - SwiftLint (0.59.1)
+  - Swinject (2.7.1)
+  - SwinjectStoryboard (2.2.2):
+    - Swinject (~> 2.7.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - APIKit
+  - KIF (~> 3.8)
+  - Nimble (~> 10.0)
+  - Quick (~> 5.0)
+  - R.swift
+  - RxSwift
+  - SwiftFormat/CLI
+  - SwiftLint
+  - Swinject
+  - SwinjectStoryboard
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - APIKit
+    - KIF
+    - Nimble
+    - Quick
+    - R.swift
+    - RxSwift
+    - SwiftFormat
+    - SwiftLint
+    - Swinject
+    - SwinjectStoryboard
+
+SPEC CHECKSUMS:
+  Alamofire: f36a35757af4587d8e4f4bfa223ad10be2422b8c
+  APIKit: 0680e86d2e8abd5bc42e64963f5f89d209eb9271
+  KIF: f098639e26b8240bc917e4c050daf29a3c3a8c15
+  Nimble: 5316ef81a170ce87baf72dd961f22f89a602ff84
+  Quick: 749aa754fd1e7d984f2000fe051e18a3a9809179
+  R.swift: 0af0d882f49f03711415cb4e5215daa977d8a480
+  RxSwift: 4e28be97cbcfeee614af26d83415febbf2bf6f45
+  SwiftFormat: 548c7b221429101546d3caeeeb672f11578df0ad
+  SwiftLint: 3d48e2fb2a3468fdaccf049e5e755df22fb40c2c
+  Swinject: ddf78b8486dd9b71a667b852cad919ab4484478e
+  SwinjectStoryboard: 240ce371396da09a4c43c72ee5c148108500e184
+
+PODFILE CHECKSUM: c52d9b0437c33e40fb5c66e9321085672ebd09cd
+
+COCOAPODS: 1.16.2
